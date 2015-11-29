@@ -1,6 +1,3 @@
 {
-  "version" : "0.0.1",
-  "structure": {
-    "readme": "SUMMARY.md"
-  }
+  "version" : "0.0.1"
 }

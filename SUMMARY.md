@@ -1,26 +1,21 @@
 # Summary
 
 * [前言](preface.md)
-* [Linux, 有用的工具，方法论](outlines.md)
-  * [Linux命令](chapters/linux_commands.md)
-  * [Linux快捷键](chapters/linux_short_cuts.md)
-  * [Git基础](chapters/git.md)
-  * [Vim](chapters/vim.md)
+* [职业规划]
   * [TODO 半年前的目录](chapters/outline.md)
   * [如何提问](chapters/how_to_ask_questions.md)
-* [读书清单](chapters/book_list.md)
+  * [读书清单](chapters/book_list.md)
   * [几点经验](chapters/experience.md)
-* [职业规划]
-  * 必读书籍(career/recommended_books.md)
-  * 程序员的台阶很高(思路敏捷，清晰，表达沟通能力强，具备领导气质, 技术过硬）
-  * 程序员的十种去路(career/programmer_finally.md)
+  * [必读书籍](chapters/recommended_books.md)
+  * [程序员的台阶很高](思路敏捷，清晰，表达沟通能力强，具备领导气质, 技术过硬）
+  * [程序员的十种去路](career/programmer_finally.md)
   * 沟通最重要, 技术排第二。
   * 收起你的个性，要谦虚，不要任性(控制好你的脾气)。
   * 不要内向。内向的人是失败者。
   * 不要踢皮球
-  * 要有个人的技术博客。 (黄敏)
+  * 要有个人的技术博客。
   * 有机会就要带领团队
-  * 架构，测试和运维不是正路。
+  * [我不看好的职业：产品经理？ 测试？ 运维？](chapters/kai_fa_zhi_shang--bu_kan_hao_de_zhi_ye.md)
   * 每天都要学习，不要沦于平庸（买菜接孩子，算计各种羊毛）
   * 创业团队务必有个靠谱的CTO
   * 可以把任务分派出去，不要放在自己肩头硬抗，最后事情没做完，耽误了。
@@ -55,14 +50,13 @@
   * 导致团队分崩离析的因素： 团队毒药，不公平的薪水，不开心的工作环境
 
 * [软件开发之殇]
-  * 写给外行的朋友看(chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
-  * 开源项目中的坑：需要先理解，再改。(chapters/kai_fa_zhi_shang--kai_yuan_xiang_mu_zhi_keng.md)
+  * [给其他行业的朋友](chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
+  * [开源项目中的坑：需要先理解，再改](chapters/kai_fa_zhi_shang--kai_yuan_xiang_mu_zhi_keng.md)
   * 不要换CTO：开发语言极其关键。它是线上部门的地基。
-  * 正视技术的作用(chapters/kai_fa_zhi_shang--ji_shu_de_zuo_yong.md)
-  * 正视技术的作用(chapters/kai_fa_zhi_shang--hao_yu_huai_de_cha_bie.md)
-  * 外包的现状(chapters/kai_fa_zhi_shang--wai_bao.md)
-  * 自己养团队(chapters/kai_fa_zhi_shang--zi_ji_yang_tuan_dui.md)
+  * [正视技术的作用](chapters/kai_fa_zhi_shang--ji_shu_de_zuo_yong.md)
+  * [好技术与坏技术](chapters/kai_fa_zhi_shang--hao_yu_huai_de_cha_bie.md)
+  * [外包的现状](chapters/kai_fa_zhi_shang--wai_bao.md)
+  * [自己养团队](chapters/kai_fa_zhi_shang--zi_ji_yang_tuan_dui.md)
   * 跟家装比较？
   * 这是一个不透明的行业
-  * 我不看好的职业：产品经理？ 测试？ 运维？(chapters/kai_fa_zhi_shang--bu_kan_hao_de_zhi_ye.md)
-  * 全栈工程师--不要指望靠流程解决问题。最终是靠人。(chapters/kai_fa_zhi_shang--quan_zhan_gong_cheng_shi.md)
+  * [全栈工程师--不要指望靠流程解决问题。最终是靠人。](chapters/kai_fa_zhi_shang--quan_zhan_gong_cheng_shi.md)
