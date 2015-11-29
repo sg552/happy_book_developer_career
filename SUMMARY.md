@@ -61,7 +61,7 @@
   * 正视技术的作用(chapters/kai_fa_zhi_shang--ji_shu_de_zuo_yong.md)
   * 正视技术的作用(chapters/kai_fa_zhi_shang--hao_yu_huai_de_cha_bie.md)
   * 外包的现状(chapters/kai_fa_zhi_shang--wai_bao.md)
-  * 自己养团队
+  * 自己养团队(chapters/kai_fa_zhi_shang--zi_ji_yang_tuan_dui.md)
   * 跟家装比较？
   * 这是一个不透明的行业
   * 我不看好的职业：产品经理？ 测试？ 运维？(chapters/kai_fa_zhi_shang--bu_kan_hao_de_zhi_ye.md)
