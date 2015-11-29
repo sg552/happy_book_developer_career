@@ -55,8 +55,11 @@
   * 导致团队分崩离析的因素： 团队毒药，不公平的薪水，不开心的工作环境
 
 * [软件开发之殇]
-  * 写给外行的朋友看
-  * 外包的优势
+  * 写给外行的朋友看(chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
+  * 开源项目中的坑：需要先理解，再改。(chapters/kai_fa_zhi_shang--kai_yuan_xiang_mu_zhi_keng.md)
+  * 不要换CTO：开发语言极其关键。它是线上部门的地基。
+  * 正视技术的作用(chapters/kai_fa_zhi_shang--ji_shu_de_zuo_yong.md)
+  * 外包的现状(chapters/kai_fa_zhi_shang--wai_bao.md)
   * 自己养团队
   * 跟家装比较？
   * 这是一个不透明的行业
