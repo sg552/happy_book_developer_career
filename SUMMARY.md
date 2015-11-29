@@ -34,7 +34,7 @@
   * 忘掉你的鼠标, 用好快捷键
   * 使用编辑器时，最重要的一些快捷键
   * SCM: 只用Git,  忘掉其他。
-  * 在技术的天空中留下痕迹(chapters/ji_shu_jian_yi--liu_xia_ji_shu_hen_ji.md)
+  * [在技术的天空中留下痕迹](chapters/ji_shu_jian_yi--liu_xia_ji_shu_hen_ji.md)
   * 频繁沟通才能保证项目失败，兼职的项目都会死掉。(胡飞鹏)
   * 人跟人的能力不一样。
   * 永远不要人肉重复。

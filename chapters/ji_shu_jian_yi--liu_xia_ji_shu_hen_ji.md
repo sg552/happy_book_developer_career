@@ -29,9 +29,13 @@ myname.me, 是不是很有型？
 
 ## 必须要有stackoverflow的账号。
 
-stackoverflow.com 是世界上最权威最大的程序员问答社区。如果你在google上搜索
+stackoverflow.com 是世界上最权威最大的程序员问答社区。
+![Stackoverflow.com](/images/stackoverflow.com.png)
+
+如果你在google上搜索
 问题，排在前几位的绝对是 stackoverflow的回答帖子。
-(TODO 见图片)
+![question on google: Stackoverflow.com](/images/stackoverflow_on_google.png)
+
 
 问答记录可以直接看到这个人是否有公益精神。是否热爱程序员这个行业或者他所掌握的语言。
 另外，stackoverflow作为英文论坛，如果他能参与到里面的问答的话，说明这个人
@@ -42,8 +46,8 @@ stackoverflow.com 是世界上最权威最大的程序员问答社区。如果�
 予人玫瑰,手有余香 ， 不是吗？
 
 p.s.
-我的stackoverflow账号，积分达到 7688. 很多很多的分数都是由于上面的原因得到的。
-(TODO 截图）
+我的stackoverflow账号，截止2015年11月29日。积分达到 7688.
+很多很多的分数都是由于上面的原因得到的。
 
 ## 必须参与开源项目。
 
@@ -53,6 +57,8 @@ p.s.
 - 有胸怀，具有公益精神。希望能够帮助到别人。这样的人在技术上才会做大做强
 - 跟其他世界级的程序员有交流。这个人的技术实力和眼界一定比敝帚自珍的程序员开阔。
 
-我与本书作者 刘明星 同学就是发掘到他再github上的开源项目。然后通过email联系到
+我与本书作者 刘明星 同学就是发掘到[他在github上的开源项目](https://github.com/liumingxing)
+。然后通过email联系到
 他。我的感觉是找到了个宝贝。哈哈
 
+![mingxing on github](/images/liumingxing_on_github.png)
