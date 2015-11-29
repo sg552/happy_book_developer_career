@@ -5,7 +5,6 @@
   * [TODO 半年前的目录](chapters/outline.md)
   * [如何提问](chapters/how_to_ask_questions.md)
   * [读书清单](chapters/book_list.md)
-  * [几点经验](chapters/experience.md)
   * [必读书籍](chapters/recommended_books.md)
   * [程序员的台阶很高](思路敏捷，清晰，表达沟通能力强，具备领导气质, 技术过硬）
   * [程序员的十种去路](career/programmer_finally.md)
