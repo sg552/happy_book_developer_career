@@ -47,6 +47,8 @@
   * 团队内要及时传播知识。成为进取型团队（每个人都争先恐后的进步）
   * 招人是个长期的任务，从头培养的人比高薪挖来的人好的多.
   * 导致团队分崩离析的因素： 团队毒药，不公平的薪水，不开心的工作环境
+  * 告诉大家好代码跟烂代码的区别。
+  * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
 
 * [软件开发之殇]
   * [给其他行业的朋友](chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
@@ -56,6 +58,6 @@
   * [好技术与坏技术](chapters/kai_fa_zhi_shang--hao_yu_huai_de_cha_bie.md)
   * [外包的现状](chapters/kai_fa_zhi_shang--wai_bao.md)
   * [自己养团队](chapters/kai_fa_zhi_shang--zi_ji_yang_tuan_dui.md)
-  * 跟家装比较？(chapters/kai_fa_zhi_shang--yu_jia_zhuang_bi_jiao.md)
+  * [跟家装比较](chapters/kai_fa_zhi_shang--yu_jia_zhuang_bi_jiao.md)
   * 这是一个不透明的行业
   * [全栈工程师--不要指望靠流程解决问题。最终是靠人。](chapters/kai_fa_zhi_shang--quan_zhan_gong_cheng_shi.md)
