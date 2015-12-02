@@ -52,6 +52,7 @@
 
 * [软件开发之殇]
   * [给其他行业的朋友](chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
+  * [中国软件公司的特点](chapters/kai_fa_zhi_shang--zhong_guo_ruan_jian_gong_si_te_dian.md)
   * [开源项目中的坑：需要先理解，再改](chapters/kai_fa_zhi_shang--kai_yuan_xiang_mu_zhi_keng.md)
   * 不要换CTO：开发语言极其关键。它是线上部门的地基。
   * [正视技术的作用](chapters/kai_fa_zhi_shang--ji_shu_de_zuo_yong.md)
