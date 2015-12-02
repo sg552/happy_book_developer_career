@@ -29,12 +29,12 @@
   * 使用chrome 加快调试速度
   * 敏捷方法论: 测试驱动，(难于测试的软件，就难于开发）
   * 敏捷方法论: 极限编程
-  * 世界上只有三种编辑器：Vim , Emacs, 其他。(高跃华)
+  * 世界上只有三种编辑器：Vim , Emacs, 其他。
   * 忘掉你的鼠标, 用好快捷键
   * 使用编辑器时，最重要的一些快捷键
   * SCM: 只用Git,  忘掉其他。
   * [在技术的天空中留下痕迹](chapters/ji_shu_jian_yi--liu_xia_ji_shu_hen_ji.md)
-  * 频繁沟通才能保证项目失败，兼职的项目都会死掉。(胡飞鹏)
+  * 签订合同要小而多，频繁沟通才能保证项目失败，兼职的项目都会死掉。
   * 人跟人的能力不一样。
   * 永远不要人肉重复。
   * 命令行
@@ -56,6 +56,6 @@
   * [好技术与坏技术](chapters/kai_fa_zhi_shang--hao_yu_huai_de_cha_bie.md)
   * [外包的现状](chapters/kai_fa_zhi_shang--wai_bao.md)
   * [自己养团队](chapters/kai_fa_zhi_shang--zi_ji_yang_tuan_dui.md)
-  * 跟家装比较？
+  * 跟家装比较？(chapters/kai_fa_zhi_shang--yu_jia_zhuang_bi_jiao.md)
   * 这是一个不透明的行业
   * [全栈工程师--不要指望靠流程解决问题。最终是靠人。](chapters/kai_fa_zhi_shang--quan_zhan_gong_cheng_shi.md)
