@@ -46,7 +46,7 @@
   * 如何应对一句话需求, （inception 方法论)
   * 团队内要及时传播知识。成为进取型团队（每个人都争先恐后的进步）
   * 招人是个长期的任务，从头培养的人比高薪挖来的人好的多.
-  * 导致团队分崩离析的因素： 团队毒药，不公平的薪水，不开心的工作环境
+  * [导致团队分崩离析的因素](chapters/ji_shu_jian_yi--rang_tuan_dui_san_jia.md)
   * 告诉大家好代码跟烂代码的区别。
   * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
 
@@ -55,7 +55,6 @@
   * [中国软件公司的特点](chapters/kai_fa_zhi_shang--zhong_guo_ruan_jian_gong_si_te_dian.md)
   * [开源项目中的坑：需要先理解，再改](chapters/kai_fa_zhi_shang--kai_yuan_xiang_mu_zhi_keng.md)
   * [如何找到CTO](chapters/kai_fa_zhi_shang--xun_zhao_cto.md)
-  * 不要换CTO：开发语言极其关键。它是线上部门的地基。
   * [正视技术的作用](chapters/kai_fa_zhi_shang--ji_shu_de_zuo_yong.md)
   * [好技术与坏技术](chapters/kai_fa_zhi_shang--hao_yu_huai_de_cha_bie.md)
   * [外包的现状](chapters/kai_fa_zhi_shang--wai_bao.md)
