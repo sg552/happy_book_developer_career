@@ -6,7 +6,7 @@
   * [如何提问](chapters/how_to_ask_questions.md)
   * [读书清单](chapters/book_list.md)
   * [必读书籍](chapters/recommended_books.md)
-  * [程序员的台阶很高](思路敏捷，清晰，表达沟通能力强，具备领导气质, 技术过硬）
+  * [程序员的台阶很高](chapters/cheng_xu_yuan_de_tai_jie.md)
   * [程序员的十种去路](career/programmer_finally.md)
   * 沟通最重要, 技术排第二。
   * 收起你的个性，要谦虚，不要任性(控制好你的脾气)。
