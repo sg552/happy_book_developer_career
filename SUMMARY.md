@@ -34,7 +34,6 @@
   * 使用编辑器时，最重要的一些快捷键
   * SCM: 只用Git,  忘掉其他。
   * [在技术的天空中留下痕迹](chapters/ji_shu_jian_yi--liu_xia_ji_shu_hen_ji.md)
-  * 签订合同要小而多，频繁沟通才能保证项目失败，兼职的项目都会死掉。
   * 人跟人的能力不一样。
   * 永远不要人肉重复。
   * 命令行
@@ -51,6 +50,8 @@
   * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
 
 * [软件开发之殇]
+  * [所见即所得设计法](chapters/ji_shu_jian_yi--suo_jian_ji_suo_de_she_ji.md)
+  * 签订合同要小而多，频繁沟通才能保证项目失败，兼职的项目都会死掉。
   * [给其他行业的朋友](chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
   * [中国软件公司的特点](chapters/kai_fa_zhi_shang--zhong_guo_ruan_jian_gong_si_te_dian.md)
   * [开源项目中的坑：需要先理解，再改](chapters/kai_fa_zhi_shang--kai_yuan_xiang_mu_zhi_keng.md)
