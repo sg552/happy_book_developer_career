@@ -42,17 +42,17 @@
   * 对于ruby 程序员来说, 机器语言，汇编语言，object c 都是反人类的语言
   * 招聘候选人时，务必识别项目毒药。
   * 技术债是要命的, 代码，坏味道，
-  * 如何应对一句话需求, （inception 方法论)
+  * [引导客户明确需求](chapters/ji_shu_jian_yi--ming_que_xu_qiu.md)
   * 团队内要及时传播知识。成为进取型团队（每个人都争先恐后的进步）
   * 招人是个长期的任务，从头培养的人比高薪挖来的人好的多.
   * [导致团队分崩离析的因素](chapters/ji_shu_jian_yi--rang_tuan_dui_san_jia.md)
-  * 告诉大家好代码跟烂代码的区别。
+  * [告诉大家好代码跟烂代码的区别](chapters/ji_shu_jian_yi--dai_ma_zhi_liang.md)
   * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
 
 * [软件开发之殇]
-  * [所见即所得设计法](chapters/ji_shu_jian_yi--suo_jian_ji_suo_de_she_ji.md)
-  * 签订合同要小而多，频繁沟通才能保证项目失败，兼职的项目都会死掉。
   * [给其他行业的朋友](chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
+  * [所见即所得设计法](chapters/ji_shu_jian_yi--suo_jian_ji_suo_de_she_ji.md)
+  * [小步快跑](chapters/kai_fa_zhi_shang--xiao_bu_kuai_pao.md)
   * [中国软件公司的特点](chapters/kai_fa_zhi_shang--zhong_guo_ruan_jian_gong_si_te_dian.md)
   * [开源项目中的坑：需要先理解，再改](chapters/kai_fa_zhi_shang--kai_yuan_xiang_mu_zhi_keng.md)
   * [如何找到CTO](chapters/kai_fa_zhi_shang--xun_zhao_cto.md)
@@ -61,5 +61,6 @@
   * [外包的现状](chapters/kai_fa_zhi_shang--wai_bao.md)
   * [自己养团队](chapters/kai_fa_zhi_shang--zi_ji_yang_tuan_dui.md)
   * [跟家装比较](chapters/kai_fa_zhi_shang--yu_jia_zhuang_bi_jiao.md)
-  * 这是一个不透明的行业
-  * [全栈工程师--不要指望靠流程解决问题。最终是靠人。](chapters/kai_fa_zhi_shang--quan_zhan_gong_cheng_shi.md)
+  * [这是一个不透明的行业](chapters/kai_fa_zhi_shang--bu_tong_ming.md)
+  * [全栈工程师--新兴起来的解决方案](chapters/kai_fa_zhi_shang--quan_zhan_gong_cheng_shi.md)
+  * [死亡案例](chapters/kai_fa_zhi_shang--si_wang_an_li.md)
