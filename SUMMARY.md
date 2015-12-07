@@ -49,7 +49,7 @@
   * [告诉大家好代码跟烂代码的区别](chapters/ji_shu_jian_yi--dai_ma_zhi_liang.md)
   * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
 
-* [软件开发之殇]
+* [软件开发之殇](chapters/kai_fa_zhi_shang.md)
   * [给其他行业的朋友](chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
   * [所见即所得设计法](chapters/ji_shu_jian_yi--suo_jian_ji_suo_de_she_ji.md)
   * [小步快跑](chapters/kai_fa_zhi_shang--xiao_bu_kuai_pao.md)
