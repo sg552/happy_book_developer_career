@@ -64,6 +64,7 @@
   * [正视技术的作用](chapters/kai_fa_zhi_shang--ji_shu_de_zuo_yong.md)
   * [好技术与坏技术](chapters/kai_fa_zhi_shang--hao_yu_huai_de_cha_bie.md)
   * [外包的现状](chapters/kai_fa_zhi_shang--wai_bao.md)
+  * [为什么国内没有好的程序员或者一流的技术人员？](chapters/kai_fa_zhi_shang--wai_bao_zhi_shang.md)
   * [自己养团队](chapters/kai_fa_zhi_shang--zi_ji_yang_tuan_dui.md)
   * [跟家装比较](chapters/kai_fa_zhi_shang--yu_jia_zhuang_bi_jiao.md)
   * [这是一个不透明的行业](chapters/kai_fa_zhi_shang--bu_tong_ming.md)
