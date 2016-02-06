@@ -60,6 +60,7 @@
   * [小步快跑](chapters/kai_fa_zhi_shang--xiao_bu_kuai_pao.md)
   * [中国软件公司的特点](chapters/kai_fa_zhi_shang--zhong_guo_ruan_jian_gong_si_te_dian.md)
   * [开源项目中的坑：需要先理解，再改](chapters/kai_fa_zhi_shang--kai_yuan_xiang_mu_zhi_keng.md)
+  * [CTO的困局](chapters/kai_fa_zhi_shang--cto_qun_ju.md)
   * [如何找到CTO](chapters/kai_fa_zhi_shang--xun_zhao_cto.md)
   * [正视技术的作用](chapters/kai_fa_zhi_shang--ji_shu_de_zuo_yong.md)
   * [好技术与坏技术](chapters/kai_fa_zhi_shang--hao_yu_huai_de_cha_bie.md)
