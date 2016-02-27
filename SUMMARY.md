@@ -48,6 +48,7 @@
   * [导致团队分崩离析的因素](chapters/ji_shu_jian_yi--rang_tuan_dui_san_jia.md)
   * [告诉大家好代码跟烂代码的区别](chapters/ji_shu_jian_yi--dai_ma_zhi_liang.md)
   * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
+  * [废代码](chapters/fei_dai_ma.md)
 
 * [产品经理入门]
   * 需要知道如何引导用户需求(ba角色)
