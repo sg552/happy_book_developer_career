@@ -2,7 +2,7 @@
 
 * [前言](preface.md)
 * [职业规划]
-  * [TODO 半年前的目录](chapters/outline.md)
+  * [半年前的目录](chapters/outline.md)
   * [如何提问](chapters/how_to_ask_questions.md)
   * [读书清单](chapters/book_list.md)
   * [必读书籍](chapters/recommended_books.md)
@@ -22,7 +22,7 @@
   * 目前我很推崇的职业方向：新手 -> 熟手 -> 技术经理 -> CTO(创业)
   * 多关注职业前辈的博客： robbin, gigix, iamhukai, 国外的：martin, kent,
   * 使用最好的键盘，显示器。而不是一流的办公室，30块钱的破烂键盘鼠标。
-  * 办公室中的健康问题： 视力，脊柱，脾胃。 按时的离开显示器是为了更好的工作。
+  * [办公室中的健康问题： ](chapters/jian_kang.md)
   * 多参加程序员聚会，与人交流。
 
 * [技术建议]
