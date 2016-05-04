@@ -11,7 +11,7 @@
   * [沟通最重要, 技术排第二](chapters/gou_tong_zui_zhong_yao.md)
   * [收起你的个性](chapters/bu_yao_ren_xing.md)
   * [入行两三年是膨胀期](chapters/peng_zhang_qi.md)
-  * 不要内向。内向的人是失败者。
+  * [不要内向。内向的人注定失败。](chapters/bu_yao_nei_xiang.md)
   * 不要踢皮球
   * 要有个人的技术博客。
   * 有机会就要带领团队
