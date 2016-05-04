@@ -17,7 +17,7 @@
   * [有机会就要带领团队](chapters/yao_dai_tuan_dui.md)
   * [我不看好的职业：产品经理？ 测试？ 运维？](chapters/kai_fa_zhi_shang--bu_kan_hao_de_zhi_ye.md)
   * [每天都要学习，不要沦于平庸](chapters/day_day_up.md)
-  * 可以把任务分派出去，不要放在自己肩头硬抗，最后事情没做完，耽误了。
+  * [做不完的任务要分派出去](chapters/zuo_bu_liao_yao_shuo_chu_lai.md)
   * 敏捷方法论
   * 目前我很推崇的职业方向：新手 -> 熟手 -> 技术经理 -> CTO(创业)
   * 多关注职业前辈的博客： robbin, gigix, iamhukai, 国外的：martin, kent,
