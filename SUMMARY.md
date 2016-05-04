@@ -18,7 +18,7 @@
   * [我不看好的职业：产品经理？ 测试？ 运维？](chapters/kai_fa_zhi_shang--bu_kan_hao_de_zhi_ye.md)
   * [每天都要学习，不要沦于平庸](chapters/day_day_up.md)
   * [做不完的任务要分派出去](chapters/zuo_bu_liao_yao_shuo_chu_lai.md)
-  * 敏捷方法论
+  * [敏捷方法论](chapters/min_jie.md)
   * 目前我很推崇的职业方向：新手 -> 熟手 -> 技术经理 -> CTO(创业)
   * 多关注职业前辈的博客： robbin, gigix, iamhukai, 国外的：martin, kent,
   * 使用最好的键盘，显示器。而不是一流的办公室，30块钱的破烂键盘鼠标。
