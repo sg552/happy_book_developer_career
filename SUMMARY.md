@@ -9,7 +9,8 @@
   * [程序员的台阶很高](chapters/cheng_xu_yuan_de_tai_jie.md)
   * [程序员的十种去路](chapters/programmer_finally.md)
   * [沟通最重要, 技术排第二](chapters/gou_tong_zui_zhong_yao.md)
-  * 收起你的个性，要谦虚，不要任性(控制好你的脾气)。
+  * [收起你的个性](chapters/bu_yao_ren_xing.md)
+  * [入行两三年是膨胀期](chapters/peng_zhang_qi.md)
   * 不要内向。内向的人是失败者。
   * 不要踢皮球
   * 要有个人的技术博客。
