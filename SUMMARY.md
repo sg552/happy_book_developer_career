@@ -17,7 +17,6 @@
   * [有机会就要带领团队](chapters/yao_dai_tuan_dui.md)
   * [我不看好的职业：产品经理？ 测试？ 运维？](chapters/kai_fa_zhi_shang--bu_kan_hao_de_zhi_ye.md)
   * [每天都要学习，不要沦于平庸](chapters/day_day_up.md)
-  * 创业团队务必有个靠谱的CTO
   * 可以把任务分派出去，不要放在自己肩头硬抗，最后事情没做完，耽误了。
   * 敏捷方法论
   * 目前我很推崇的职业方向：新手 -> 熟手 -> 技术经理 -> CTO(创业)
@@ -62,6 +61,7 @@
   * [小步快跑](chapters/kai_fa_zhi_shang--xiao_bu_kuai_pao.md)
   * [中国软件公司的特点](chapters/kai_fa_zhi_shang--zhong_guo_ruan_jian_gong_si_te_dian.md)
   * [开源项目中的坑：需要先理解，再改](chapters/kai_fa_zhi_shang--kai_yuan_xiang_mu_zhi_keng.md)
+  * [创业团队务必有个靠谱的CTO](chapters/cto_hen_zhong_yao.md)
   * [CTO的困局](chapters/kai_fa_zhi_shang--cto_qun_ju.md)
   * [如何找到CTO](chapters/kai_fa_zhi_shang--xun_zhao_cto.md)
   * [正视技术的作用](chapters/kai_fa_zhi_shang--ji_shu_de_zuo_yong.md)
