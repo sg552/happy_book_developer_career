@@ -13,7 +13,7 @@
   * [入行两三年是膨胀期](chapters/peng_zhang_qi.md)
   * [不要内向。内向的人注定失败。](chapters/bu_yao_nei_xiang.md)
   * [不要踢皮球](chapters/bu_yao_ti_pi_qiu.md)
-  * 要有个人的技术博客。
+  * [要有个人的技术博客](chapters/you_ji_shu_bo_ke.md)
   * 有机会就要带领团队
   * [我不看好的职业：产品经理？ 测试？ 运维？](chapters/kai_fa_zhi_shang--bu_kan_hao_de_zhi_ye.md)
   * 每天都要学习，不要沦于平庸（买菜接孩子，算计各种羊毛）
