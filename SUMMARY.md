@@ -10,6 +10,7 @@
   * [程序员的十种去路](chapters/it_ren_yuan_de_qu_lu.md)
   * [收起你的个性](chapters/bu_yao_ren_xing.md)
   * [入行两三年是膨胀期](chapters/peng_zhang_qi.md)
+  * [传统语言编程的人心态容易不好]
   * [不要内向。内向的人注定失败。](chapters/bu_yao_nei_xiang.md)
   * [沟通最重要, 技术排第二](chapters/gou_tong_zui_zhong_yao.md)
   * [不要踢皮球](chapters/bu_yao_ti_pi_qiu.md)
@@ -56,6 +57,7 @@
   * 了解必要的技术
 
 * [软件开发之殇](chapters/kai_fa_zhi_shang.md)
+  * [程序员的人群心理状态](chapters/cheng_xu_yuan_xin_li_zhuang_tai.md)
   * [给其他行业的朋友](chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
   * [所见即所得设计法](chapters/ji_shu_jian_yi--suo_jian_ji_suo_de_she_ji.md)
   * [小步快跑](chapters/kai_fa_zhi_shang--xiao_bu_kuai_pao.md)
