@@ -75,3 +75,4 @@
   * [这是一个不透明的行业](chapters/kai_fa_zhi_shang--bu_tong_ming.md)
   * [全栈工程师--新兴起来的解决方案](chapters/kai_fa_zhi_shang--quan_zhan_gong_cheng_shi.md)
   * [死亡案例](chapters/kai_fa_zhi_shang--si_wang_an_li.md)
+  * [外行人开办软件公司必死](chapters/wai_hang_zuo_bu_le_gong_si.md)
