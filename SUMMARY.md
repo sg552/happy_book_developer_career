@@ -10,7 +10,7 @@
   * [程序员的十种去路](chapters/it_ren_yuan_de_qu_lu.md)
   * [收起你的个性](chapters/bu_yao_ren_xing.md)
   * [入行两三年是膨胀期](chapters/peng_zhang_qi.md)
-  * [传统语言编程的人心态容易不好]
+  * [传统语言编程的人心态容易不好](chapters/chuan_tong_yu_yan_de_ren_xin_tai_bu_hao.md)
   * [不要内向。内向的人注定失败。](chapters/bu_yao_nei_xiang.md)
   * [沟通最重要, 技术排第二](chapters/gou_tong_zui_zhong_yao.md)
   * [不要踢皮球](chapters/bu_yao_ti_pi_qiu.md)
