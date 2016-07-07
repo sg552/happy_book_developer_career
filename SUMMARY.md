@@ -77,3 +77,4 @@
   * [死亡案例](chapters/kai_fa_zhi_shang--si_wang_an_li.md)
   * [外行人开办软件公司必死](chapters/wai_hang_zuo_bu_le_gong_si.md)
   * [人头外包不可靠](chapters/bu_yao_ren_tou_wai_bao.md)
+  * [小心花架子CTO](chapters/hua_jia_zi_ji_shu_fu_ze_ren.md)
