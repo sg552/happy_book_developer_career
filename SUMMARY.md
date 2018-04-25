@@ -26,6 +26,7 @@
   * [办公室中的健康问题： ](chapters/jian_kang.md)
   * 多参加程序员聚会，与人交流。
   * [程序员很多时候都不是在写程序](/not_as_you_thought.md)
+  * [中国IT公司的特点](chapters/chinese_it_company.md)
 
 
 * [技术建议]
