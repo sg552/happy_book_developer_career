@@ -22,9 +22,8 @@
   * [敏捷方法论](chapters/min_jie.md)
   * [目前我很推崇的职业方向：新手 -> 熟手 -> 技术经理 -> CTO(创业)](chapters/recommands_career.md)
   * [多关注职业前辈的博客](chapters/qian_bei_bo_ke.md)
-  * 使用最好的键盘，显示器。而不是一流的办公室，30块钱的破烂键盘鼠标。
   * [办公室中的健康问题： ](chapters/jian_kang.md)
-  * 多参加程序员聚会，与人交流。
+  * [多参加程序员聚会，与人交流](chapters/zou_chu_qu.md)
   * [程序员很多时候都不是在写程序](/not_as_you_thought.md)
   * [中国IT公司的特点](chapters/chinese_it_company.md)
 
@@ -36,6 +35,7 @@
   * 世界上只有三种编辑器：Vim , Emacs, 其他。
   * 忘掉你的鼠标, 用好快捷键
   * 使用编辑器时，最重要的一些快捷键
+  * 使用最好的键盘，显示器。而不是一流的办公室，30块钱的破烂键盘鼠标。
   * SCM: 只用Git,  忘掉其他。
   * [在技术的天空中留下痕迹](chapters/ji_shu_jian_yi--liu_xia_ji_shu_hen_ji.md)
   * 人跟人的能力不一样。
