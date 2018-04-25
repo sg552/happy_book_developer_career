@@ -20,8 +20,8 @@
   * [每天都要学习，不要沦于平庸](chapters/day_day_up.md)
   * [做不完的任务要分派出去](chapters/zuo_bu_liao_yao_shuo_chu_lai.md)
   * [敏捷方法论](chapters/min_jie.md)
-  * 目前我很推崇的职业方向：新手 -> 熟手 -> 技术经理 -> CTO(创业)
-  * 多关注职业前辈的博客： robbin, gigix, iamhukai, 国外的：martin, kent,
+  * [目前我很推崇的职业方向：新手 -> 熟手 -> 技术经理 -> CTO(创业)](chapters/recommands_career.md)
+  * [多关注职业前辈的博客](chapters/qian_bei_bo_ke.md)
   * 使用最好的键盘，显示器。而不是一流的办公室，30块钱的破烂键盘鼠标。
   * [办公室中的健康问题： ](chapters/jian_kang.md)
   * 多参加程序员聚会，与人交流。
