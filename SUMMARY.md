@@ -35,7 +35,7 @@
   * [神级编辑器：Vim](chapters/vim.md)
   * [忘掉你的鼠标, 用好快捷键](chapters/keybord_is_faster.md)
   * [使用编辑器时，最重要的一些快捷键](chapters/shot_cuts.md)
-  * 使用最好的键盘，显示器。而不是一流的办公室，30块钱的破烂键盘鼠标。
+  * [使用好装备](chapters/hao_zhuang_bei.md)
   * [SCM: 只用Git,  忘掉其他。](chapters/scm.md)
   * [在技术的天空中留下痕迹](chapters/ji_shu_jian_yi--liu_xia_ji_shu_hen_ji.md)
   * 人跟人的能力不一样。
