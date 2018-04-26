@@ -1,9 +1,5 @@
 # 快捷键
 
-
-
-
-
 论快捷键的使用 ( shortcuts should be short )
 
 按一下的： （先按下esc )  j k h l x (vim中的操作，如果也算的话） , F11 （全屏）, F5 刷新
