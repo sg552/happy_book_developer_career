@@ -47,11 +47,10 @@
   
   * 技术债是要命的, 代码，坏味道，
   * [引导客户明确需求](chapters/ji_shu_jian_yi--ming_que_xu_qiu.md)
-  
   * [告诉大家好代码跟烂代码的区别](chapters/ji_shu_jian_yi--dai_ma_zhi_liang.md)
   * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
   * [废代码](chapters/fei_dai_ma.md)
-  * [不要对修改现有代码,保有乐观态度]
+  * [修改现有系统其实很难](chapters/code_is_hard_to_modify.md)
 
 * [如何管理技术团队]
   * [技术人员的特点](chapters/management_single_)
