@@ -30,10 +30,9 @@
 
 * [技术建议]
   * [如何选择入门方向](chapters/xuan_ze_ru_men.md)
-  * 使用chrome 加快调试速度
-  * 敏捷方法论: 测试驱动，(难于测试的软件，就难于开发）
-  * 敏捷方法论: 极限编程
-  * 世界上只有三种编辑器：Vim , Emacs, 其他。
+  * [web开发：使用开发者工具加快调试速度](chapters/web_developer_tool.md)
+  * [敏捷方法论: 测试驱动](chapters/tdd.md)
+  * [神级编辑器：Vim](chapters/vim.md)
   * [忘掉你的鼠标, 用好快捷键](chapters/keybord_is_faster.md)
   * [使用编辑器时，最重要的一些快捷键](chapters/shot_cuts.md)
   * 使用最好的键盘，显示器。而不是一流的办公室，30块钱的破烂键盘鼠标。
@@ -55,6 +54,15 @@
   * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
   * [废代码](chapters/fei_dai_ma.md)
   * [不要对修改现有代码,保有乐观态度]
+
+* [如何管理技术团队]
+  * [技术人员的特点](chapters/management_single_)
+  * 团体内的技术人员
+  * 遇到问题如何解决
+  * 如何培养新人
+  * 如何对待老员工
+
+
 
 * [产品经理入门]
   * 需要知道如何引导用户需求(ba角色)
