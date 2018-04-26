@@ -38,18 +38,16 @@
   * [使用好装备](chapters/hao_zhuang_bei.md)
   * [SCM: 只用Git,  忘掉其他。](chapters/scm.md)
   * [在技术的天空中留下痕迹](chapters/ji_shu_jian_yi--liu_xia_ji_shu_hen_ji.md)
-  * 人跟人的能力不一样。
-  * 永远不要人肉重复。
+
+  * [永远不要人肉重复](chapters/do_not_repeat_yourself.md)
   * 命令行
   * [优先使用linux](chapters/choose_os.md)
   * 技术很杂(好多列表，不要误以为一种技术通吃）， 入门用的技术(各种设计模式啥的）， 进阶：ThoughtWorks 技术雷达
   * 对于ruby 程序员来说, 机器语言，汇编语言，object c 都是反人类的语言
-  * 招聘候选人时，务必识别项目毒药。
+  
   * 技术债是要命的, 代码，坏味道，
   * [引导客户明确需求](chapters/ji_shu_jian_yi--ming_que_xu_qiu.md)
-  * 团队内要及时传播知识。成为进取型团队（每个人都争先恐后的进步）
-  * 招人是个长期的任务，从头培养的人比高薪挖来的人好的多.
-  * [导致团队分崩离析的因素](chapters/ji_shu_jian_yi--rang_tuan_dui_san_jia.md)
+  
   * [告诉大家好代码跟烂代码的区别](chapters/ji_shu_jian_yi--dai_ma_zhi_liang.md)
   * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
   * [废代码](chapters/fei_dai_ma.md)
@@ -61,8 +59,11 @@
   * 遇到问题如何解决
   * 如何培养新人
   * 如何对待老员工
-
-
+  * 招聘候选人时，务必识别项目毒药。
+  * 团队内要及时传播知识。成为进取型团队（每个人都争先恐后的进步）
+  * 招人是个长期的任务，从头培养的人比高薪挖来的人好的多.
+  * [导致团队分崩离析的因素](chapters/ji_shu_jian_yi--rang_tuan_dui_san_jia.md)
+  * 人跟人的能力不一样。  
 
 * [产品经理入门]
   * 需要知道如何引导用户需求(ba角色)
