@@ -36,12 +36,12 @@
   * [忘掉你的鼠标, 用好快捷键](chapters/keybord_is_faster.md)
   * [使用编辑器时，最重要的一些快捷键](chapters/shot_cuts.md)
   * 使用最好的键盘，显示器。而不是一流的办公室，30块钱的破烂键盘鼠标。
-  * SCM: 只用Git,  忘掉其他。
+  * [SCM: 只用Git,  忘掉其他。](chapters/scm.md)
   * [在技术的天空中留下痕迹](chapters/ji_shu_jian_yi--liu_xia_ji_shu_hen_ji.md)
   * 人跟人的能力不一样。
   * 永远不要人肉重复。
   * 命令行
-  * 放弃mac，使用linux.
+  * [优先使用linux](chapters/choose_os.md)
   * 技术很杂(好多列表，不要误以为一种技术通吃）， 入门用的技术(各种设计模式啥的）， 进阶：ThoughtWorks 技术雷达
   * 对于ruby 程序员来说, 机器语言，汇编语言，object c 都是反人类的语言
   * 招聘候选人时，务必识别项目毒药。
