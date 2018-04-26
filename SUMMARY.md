@@ -29,12 +29,13 @@
 
 
 * [技术建议]
+  * [如何选择入门方向](chapters/xuan_ze_ru_men.md)
   * 使用chrome 加快调试速度
   * 敏捷方法论: 测试驱动，(难于测试的软件，就难于开发）
   * 敏捷方法论: 极限编程
   * 世界上只有三种编辑器：Vim , Emacs, 其他。
-  * 忘掉你的鼠标, 用好快捷键
-  * 使用编辑器时，最重要的一些快捷键
+  * [忘掉你的鼠标, 用好快捷键](chapters/keybord_is_faster.md)
+  * [使用编辑器时，最重要的一些快捷键](chapters/shot_cuts.md)
   * 使用最好的键盘，显示器。而不是一流的办公室，30块钱的破烂键盘鼠标。
   * SCM: 只用Git,  忘掉其他。
   * [在技术的天空中留下痕迹](chapters/ji_shu_jian_yi--liu_xia_ji_shu_hen_ji.md)
