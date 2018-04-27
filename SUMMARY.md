@@ -16,7 +16,7 @@
   * [不要踢皮球](chapters/bu_yao_ti_pi_qiu.md)
   * [要有个人的技术博客](chapters/you_ji_shu_bo_ke.md)
   * [有机会就要带领团队](chapters/yao_dai_tuan_dui.md)
-  * [我不看好的职业：产品经理？ 测试？ 运维？](chapters/kai_fa_zhi_shang--bu_kan_hao_de_zhi_ye.md)
+  * [我不看好的职业：测试和运维](chapters/kai_fa_zhi_shang--bu_kan_hao_de_zhi_ye.md)
   * [每天都要学习，不要沦于平庸](chapters/day_day_up.md)
   * [做不完的任务要分派出去](chapters/zuo_bu_liao_yao_shuo_chu_lai.md)
   * [敏捷方法论](chapters/min_jie.md)
