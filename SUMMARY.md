@@ -42,8 +42,7 @@
   * [命令行 优于 GUI](chapters/commandline.md)
   * [优先使用linux](chapters/choose_os.md)
   * [技术的广度比深度更加重要](chapters/ji_shu_guang_du_geng_zhong_yao.md)
-  * 对于ruby 程序员来说, 机器语言，汇编语言，object c 都是反人类的语言
-  * 技术债是要命的, 代码，坏味道，
+  * [技术债](chapters/ji_shu_zhai.md)
   * [引导客户明确需求](chapters/ji_shu_jian_yi--ming_que_xu_qiu.md)
   * [告诉大家好代码跟烂代码的区别](chapters/ji_shu_jian_yi--dai_ma_zhi_liang.md)
   * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
