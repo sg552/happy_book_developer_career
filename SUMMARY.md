@@ -58,7 +58,7 @@
   * [项目毒药](chapters/xiang_mu_du_yao.md)
   * [培养自我成长型团队](chapters/good_team.md)
   * [导致团队分崩离析的因素](chapters/ji_shu_jian_yi--rang_tuan_dui_san_jia.md)
-  * 人跟人的能力不一样。  
+  * [程序员绝对不是螺丝钉](chapters/luo_si_ding.md)
 
 * [产品经理入门]
   * 需要知道如何引导用户需求(ba角色)
