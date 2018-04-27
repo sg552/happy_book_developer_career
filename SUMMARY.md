@@ -86,12 +86,10 @@
 * [软件外包公司生存指南]
   * [踩过的坑](chapters/wai_bao_exp.md)
   * [接项目的几个原则](chapters/xiang_mu_hen_zhong_yao.md)  
-  * [要账是永恒的话题](chapters/feng_xian.md)   
+  * [永恒的痛点：要账](chapters/feng_xian.md)   
   * [需求: 不要只增不砍](chapters/xu_qiu.md)
-  * [为什么软件公司会倒闭?](chapters/)
-  * [软件公司骗甲方,  程序员骗软件公司](chapters/)
-
-  * 软件公司10个老板中,9个是销售起家.
+  * [软件外包公司的宿命](chapters/su_ming.md)
+  * [软件公司10个老板中,9个是销售起家.]
   * 只有能培养人的软件公司才能走的远.
   * 软件人才的几种去向.
   * [做项目的关键](chapters/key_to_success.md)
