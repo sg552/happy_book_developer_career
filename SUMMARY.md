@@ -54,10 +54,9 @@
   * [典型团队的内部矛盾](chapters/nei_bu_mao_dun.md)
   * 遇到问题如何解决(??)
   * [如何招聘和培养新人](chapters/pei_yang_xin_ren.md)
-  * 如何对待老员工
-  * 招聘候选人时，务必识别项目毒药。
-  * 团队内要及时传播知识。成为进取型团队（每个人都争先恐后的进步）
-  * 招人是个长期的任务，从头培养的人比高薪挖来的人好的多.
+  * [如何对待老员工](chapters/lao_yuan_gong.md)
+  * [项目毒药](chapters/xiang_mu_du_yao.md)
+  * [培养自我成长型团队](chapters/good_team.md)
   * [导致团队分崩离析的因素](chapters/ji_shu_jian_yi--rang_tuan_dui_san_jia.md)
   * 人跟人的能力不一样。  
 
