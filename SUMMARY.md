@@ -38,13 +38,11 @@
   * [使用好装备](chapters/hao_zhuang_bei.md)
   * [SCM: 只用Git,  忘掉其他。](chapters/scm.md)
   * [在技术的天空中留下痕迹](chapters/ji_shu_jian_yi--liu_xia_ji_shu_hen_ji.md)
-
   * [永远不要人肉重复](chapters/do_not_repeat_yourself.md)
   * [命令行 优于 GUI](chapters/commandline.md)
   * [优先使用linux](chapters/choose_os.md)
-  * 技术很杂(好多列表，不要误以为一种技术通吃）， 入门用的技术(各种设计模式啥的）， 进阶：ThoughtWorks 技术雷达
+  * [技术的广度比深度更加重要](chapters/ji_shu_guang_du_geng_zhong_yao.md)
   * 对于ruby 程序员来说, 机器语言，汇编语言，object c 都是反人类的语言
-  
   * 技术债是要命的, 代码，坏味道，
   * [引导客户明确需求](chapters/ji_shu_jian_yi--ming_que_xu_qiu.md)
   * [告诉大家好代码跟烂代码的区别](chapters/ji_shu_jian_yi--dai_ma_zhi_liang.md)
