@@ -53,7 +53,7 @@
   * [团体内的技术人员](chapters/tuan_dui_zhong_de_ji_shu_ren_yuan.md)
   * [典型团队的内部矛盾](chapters/nei_bu_mao_dun.md)
   * 遇到问题如何解决(??)
-  * 如何培养新人
+  * [如何招聘和培养新人](chapters/pei_yang_xin_ren.md)
   * 如何对待老员工
   * 招聘候选人时，务必识别项目毒药。
   * 团队内要及时传播知识。成为进取型团队（每个人都争先恐后的进步）
