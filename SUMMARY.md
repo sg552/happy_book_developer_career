@@ -60,11 +60,6 @@
   * [导致团队分崩离析的因素](chapters/ji_shu_jian_yi--rang_tuan_dui_san_jia.md)
   * [程序员绝对不是螺丝钉](chapters/luo_si_ding.md)
 
-* [产品经理入门]
-  * 需要知道如何引导用户需求(ba角色)
-  * 以用户为准。用户是最好的产品经理
-  * 了解必要的技术
-
 * [软件开发之殇](chapters/kai_fa_zhi_shang.md)
   * [程序员的人群心理状态](chapters/cheng_xu_yuan_xin_li_zhuang_tai.md)
   * [给其他行业的朋友](chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
@@ -90,9 +85,8 @@
 
 * [软件外包公司生存指南]
   * [踩过的坑](chapters/wai_bao_exp.md)
-  * 接项目的过程
   * 接项目的注意事项
-  * 需求: 不要只增不砍.
+  * [需求: 不要只增不砍](chapters/xu_qiu.md)
   * 为什么软件公司会倒闭?
   * 软件公司骗甲方,  程序员骗软件公司
   * 每个项目都很重要,每个项目做不好都是毁容.
