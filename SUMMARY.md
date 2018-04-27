@@ -20,13 +20,12 @@
   * [每天都要学习，不要沦于平庸](chapters/day_day_up.md)
   * [做不完的任务要分派出去](chapters/zuo_bu_liao_yao_shuo_chu_lai.md)
   * [敏捷方法论](chapters/min_jie.md)
-  * [目前我很推崇的职业方向：新手 -> 熟手 -> 技术经理 -> CTO(创业)](chapters/recommands_career.md)
+  * [我个人看好的职业方向](chapters/recommands_career.md)
   * [多关注职业前辈的博客](chapters/qian_bei_bo_ke.md)
-  * [办公室中的健康问题： ](chapters/jian_kang.md)
+  * [办公室中的健康问题](chapters/jian_kang.md)
   * [多参加程序员聚会，与人交流](chapters/zou_chu_qu.md)
   * [程序员很多时候都不是在写程序](/not_as_you_thought.md)
   * [中国IT公司的特点](chapters/chinese_it_company.md)
-
 
 * [技术建议]
   * [如何选择入门方向](chapters/xuan_ze_ru_men.md)
@@ -50,9 +49,9 @@
   * [修改现有系统其实很难](chapters/code_is_hard_to_modify.md)
 
 * [如何管理技术团队]
-  * [技术人员的特点](chapters/management_single_)
+  * [技术人员的特点](chapters/ji_shu_ren_yuan_te_dian.md)
   * 团体内的技术人员
-  * 遇到问题如何解决
+  * 遇到问题如何解决(??)
   * 如何培养新人
   * 如何对待老员工
   * 招聘候选人时，务必识别项目毒药。
@@ -89,12 +88,8 @@
   * [人头外包不可靠](chapters/bu_yao_ren_tou_wai_bao.md)
   * [小心花架子CTO](chapters/hua_jia_zi_ji_shu_fu_ze_ren.md)
 
-* [软件外包的痛点]
+* [软件外包公司生存指南]
   * [踩过的坑](chapters/wai_bao_exp.md)
-
-* [明创软件]
-  * 介绍.(哪年开始经营, 擅长什么,业务范围)
-  * 费用
   * 接项目的过程
   * 接项目的注意事项
   * 需求: 不要只增不砍.
@@ -105,4 +100,4 @@
   * 软件公司10个老板中,9个是销售起家.
   * 只有能培养人的软件公司才能走的远.
   * 软件人才的几种去向.
-* [ 做项目的关键](chapters/key_to_success.md)
+  * [ 做项目的关键](chapters/key_to_success.md)
