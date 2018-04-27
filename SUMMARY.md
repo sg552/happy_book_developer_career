@@ -50,7 +50,8 @@
 
 * [如何管理技术团队]
   * [技术人员的特点](chapters/ji_shu_ren_yuan_te_dian.md)
-  * 团体内的技术人员
+  * [团体内的技术人员](chapters/tuan_dui_zhong_de_ji_shu_ren_yuan.md)
+  * [典型团队的内部矛盾](chapters/nei_bu_mao_dun.md)
   * 遇到问题如何解决(??)
   * 如何培养新人
   * 如何对待老员工
