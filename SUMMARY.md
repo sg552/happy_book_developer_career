@@ -47,6 +47,7 @@
   * [软件项目中看起来的美好](chapters/ji_shu_jian_yi--kan_qi_lai_de_mei_hao.md)
   * [废代码](chapters/fei_dai_ma.md)
   * [修改现有系统其实很难](chapters/code_is_hard_to_modify.md)
+  * [追求自动化](chapter/zi_dong_hua.md)
 
 * [如何管理技术团队]
   * [技术人员的特点](chapters/ji_shu_ren_yuan_te_dian.md)
