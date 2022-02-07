@@ -2,7 +2,7 @@
 
 ## 一句话需求
 
-很多时候, 甲方没有提出明确的需求, [仅仅有一句话](chapters/kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
+很多时候, 甲方没有提出明确的需求, [仅仅有一句话](./kai_fa_zhi_shang--gei_wai_hang_de_peng_you.md)
 ,乙方就会按照自己的想法去做. 结果导致做出来的完全不一样.
 
 深层的意义,就是甲方还没把自己的需求细化出来. 这样的状态是根本无法开工的.

@@ -2,7 +2,7 @@
 
 论快捷键的使用 ( shortcuts should be short )
 
-按一下的： （先按下esc )  j k h l x (vim中的操作，如果也算的话） , F11 （全屏）, F5 刷新
+按一下的： ( 先按下esc )  j k h l x (vim中的操作，如果也算的话) , F11 （全屏）, F5 刷新
 
 按两下的： （很多了）
 
@@ -16,7 +16,7 @@
 
 mac 中的 上一个标签页： command + shift + [/]   ，其他忘记了。。。
 
-我按两键组合的快捷键是没有任何问题的，眼睛无需离开屏幕。 但是按三键组合的快捷键的windows键盘就会明显变慢（例如  ctrl + shift + v ) 如果是三键组合的mac就不行了。 因为mac的键盘不好按，而且它的快捷键的组合匪夷所思，总是给我一种无法记住的感觉。。。例如 我很奇怪， command + shif + [ 为什么就代表了向左翻页（ctrl + page up/down 多通用啊。。）？ ctrl + shift + e 仅仅是为了让command line 下的光标到达尾部， 干嘛不用 home/end 中的end键？
+我按两键组合的快捷键是没有任何问题的，眼睛无需离开屏幕。 但是按三键组合的快捷键的windows键盘就会明显变慢(例如  ctrl + shift + v ) 如果是三键组合的mac就不行了。 因为mac的键盘不好按，而且它的快捷键的组合匪夷所思，总是给我一种无法记住的感觉。。。例如 我很奇怪， command + shif + [ 为什么就代表了向左翻页（ctrl + page up/down 多通用啊。。）？ ctrl + shift + e 仅仅是为了让command line 下的光标到达尾部， 干嘛不用 home/end 中的end键？
 
 所以，我发现大部分用mac的同学都要在敲键盘的时候用眼睛去找， 没见过任何一个VIM用的比我熟悉的MAC用户。。。。
 

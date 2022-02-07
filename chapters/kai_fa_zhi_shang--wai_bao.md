@@ -21,7 +21,7 @@
 
 ## 绝对不要找外地的
 
-见 [沟通至上](/kai_fa_zhi_shang--gou_tong_zhi_shang.md) 沟通是对项目的最好保证。
+见 [沟通至上](./kai_fa_zhi_shang--gou_tong_zhi_shang.md) 沟通是对项目的最好保证。
 
 ## 绝对不要找太便宜的软件承接方。
 
