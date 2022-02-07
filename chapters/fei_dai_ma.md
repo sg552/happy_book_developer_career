@@ -1,21 +1,20 @@
 # 废代码
 
-boilerplate coae.
+[boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code)
 烧水壶(架子）  代码
 
 有它，没啥意义。  没它，没法编译，运行的代码。
 
-
 html:
 
-
+```html
 <html>
   <head>
   </head>
   <body>
   </body>
 </html>
-
+```
 
 java:
 
@@ -45,7 +44,7 @@ javascript:
 
 ## 学会分享和开放
 
-- 聪明的人，永远会学会你藏着掖着的东西
+- 聪明的人，永远能学会你藏着掖着的东西
 - 不开窍的人，你把东西放到他面前，他都不要。
 
 ## 博客是自己的名片。
@@ -95,7 +94,7 @@ siwei.me boilderplate )  我可以把非常复杂的东西，记在里面。
 2007-06-12 应用开源项目时，你会大肆封装，修改它吗？ (349)
 ```
 
-英语谚语：  吃自己的狗粮。
+英语谚语：  [吃自己的狗粮](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)。
 
 你是作者。 谁是第一个读者？  自己么！
 

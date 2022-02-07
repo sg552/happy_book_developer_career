@@ -5,10 +5,12 @@ Git 极速入门
 
 2010-04-23 23:03
 分类： 技术
-这里非常不错： http://www.lovecloud.info/index.php/2010/02/08/%E6%9C%80%E8%BF%91%E5%AD%A6%E5%88%B0%E7%9A%84%E5%87%A0%E4%B8%AAgit%E7%9A%84%E7%94%A8%E6%B3%95/
+这里非常不错： http://www.lovecloud.info/index.php/2010/02/08/%E6%9C%80%E8%BF%91%E5%AD%A6%E5%88%B0%E7%9A%84%E5%87%A0%E4%B8%AAgit%E7%9A%84%E7%94%A8%E6%B3%95/ (FIXME: broken link)
 
-查看所有的GIT变量： git var -l
-git config -f = ~/.gitconfig 就可以载入变量
+```bash
+git var -l # 查看所有的GIT变量
+git config -f = ~/.gitconfig # 载入变量
+```
 
 提交时需要：（代码review的小要求）
 引用
@@ -17,26 +19,27 @@ git config -f = ~/.gitconfig 就可以载入变量
 2. comments 中就不要有by Your Name 了。重复。
 
 
-http://blog.csdn.net/sunrock/archive/2008/06/05/2514204.aspx
+[git使用笔记](http://blog.csdn.net/sunrock/archive/2008/06/05/2514204.aspx)
+
 引用
 
-  $ git -config user.name "Jike Song"
-   $ git -config user.email [email]albcamus@gmail.com[/email]
+```bash
+git -config user.name "Jike Song"
+git -config user.email [email]albcamus@gmail.com[/email]
 
-           注意，这样会在当前repository目录下的. git /config中写入配置信息。 如果 git -config加了--global
-        选项，配置信息就会写入到~/. git config文件中。 因为你可能用不同的身份参与不同的项目，而多个
-        项目都用 git 管理，所以建议不用global配置。
-
-
+# 注意，这样会在当前repository目录下的. git /config中写入配置信息。 如果 git -config加了--global
+# 选项，配置信息就会写入到~/. git config文件中。 因为你可能用不同的身份参与不同的项目，而多个
+# 项目都用 git 管理，所以建议不用global配置。
+```
 
 生成本地修改的所有patch（多少次提交就多少个.path文件）:
 引用
-git format-patch origin
+`git format-patch origin`
 
 
 生成单个patch文件（例子中是将最近5次提交的内容合并到一个文件中）：
 引用
-git format-patch -5 --stdout  > patch_by_siwei.txt
+`git format-patch -5 --stdout  > patch_by_siwei.txt`
 
 
 git push 之前，修改 .git/config 中类似路径为:
@@ -46,11 +49,11 @@ git@gitosis.host.com:project_name.git
 
 往远程服务器上提交分支：
 引用
-git push origin [本地分支名]:[远程分知名(push之后就存在了)]
+`git push origin [本地分支名]:[远程分知名(push之后就存在了)]`
 
 例如：(理论上)
 引用
-git push origin added_new_webservice_to_sync_products_and_platforms:lily
+`git push origin added_new_webservice_to_sync_products_and_platforms:lily`
 
 提交之后远程就会出现了一个"lily"分支。
 
@@ -61,15 +64,17 @@ apply patch的时候：
 
 每天最好更新一下远程服务器中的代码：
 
-git pull . master    (把远程的master更新到当前的本地分支）
+`git pull . master # 把远程的master更新到当前的本地分支`
 
 
 windows环境下的Git Bash中注释的换行： 使用单引号。
 
+```bash
 git commit -m '
 balabala
 bala
 '
+```
 
 # git patch/apply 某一个commit ( apply a patch generated from a specific commit )
 
@@ -79,9 +84,10 @@ bala
 
 我们遇到一个情况， 在某个机器上，需要一个紧急部署，但是又不希望手工去修改（因为已经有了一个commit 了）。这样的情况下，可以使用git path 专门为某个commit 生成patch, 然后在这个远程机器上apply it.  ( apply a patch generated from a specific commit ?)
 
-$ git format-patch -1 <sha>   # =>  0001__.patch
-
-$ git apply <path_file >
+```bash
+git format-patch -1 <sha>   # =>  0001__.patch
+git apply <path_file >
+```
 
 # git cherry-pick. 如何把已经提交的commit, 从一个分支放到另一个分支
 
@@ -97,8 +103,7 @@ Apply the changes introduced by some existing commits
 
 简单用法：
 
-git cherry-pick <commit id>
-
+`git cherry-pick <commit id>`
 
 例如：
 $ git checkout old_cc
@@ -150,7 +155,7 @@ sg552@youku:/sg552/workspace/m-cms$ git branch -a
 
 命令： git remote show origin 可以显示本地和远程的origin 上的分支情况 ( command $ git remote show origin lists the branches in local and remotely )
 
-~~~
+```bash
 sg552@youku:/sg552/workspace/m-cms$ git remote show origin
 * remote origin
   Fetch URL: ssh://shensiwei@gforge.1verge.net:22022/gitroot/m-cms
@@ -164,7 +169,7 @@ sg552@youku:/sg552/workspace/m-cms$ git remote show origin
   Local refs configured for 'git push':
     master       pushes to master       (up to date)
     siwei_branch pushes to siwei_branch (fast-forwardable)
-~~~
+```
 
 # git tag 基本操作 （ git tagging basic ）
 

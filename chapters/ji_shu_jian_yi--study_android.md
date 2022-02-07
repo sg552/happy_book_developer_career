@@ -79,9 +79,9 @@ XML形式的废代码。提高可读性。
 
   1. Activity
   2. XML
-  3. 一堆乱七八糟的文件（ value.xml,  color.xml, string)
+  3. 一堆乱七八糟的文件（ value.xml,  color.xml, string ）
 
-3.
+3. TODO
 
 
 # activity:

@@ -30,11 +30,11 @@ myname.me, 是不是很有型？
 ## 必须要有stackoverflow的账号。
 
 stackoverflow.com 是世界上最权威最大的程序员问答社区。
-![Stackoverflow.com](/images/stackoverflow.com.png)
+![Stackoverflow.com](../images/stackoverflow.com.png)
 
 如果你在google上搜索
 问题，排在前几位的绝对是 stackoverflow的回答帖子。
-![question on google: Stackoverflow.com](/images/stackoverflow_on_google.png)
+![question on google: Stackoverflow.com](../images/stackoverflow_on_google.png)
 
 
 问答记录可以直接看到这个人是否有公益精神。是否热爱程序员这个行业或者他所掌握的语言。
@@ -61,4 +61,4 @@ p.s.
 。然后通过email联系到
 他。我的感觉是找到了个宝贝。哈哈
 
-![mingxing on github](/images/liumingxing_on_github.png)
+![mingxing on github](../images/liumingxing_on_github.png)

@@ -7,16 +7,16 @@
 如下面三个图片：
 
 先准备好一张大白纸和黄纸片，然后，快速的手绘项目截图：
-![例子1](/images/inception1.jpeg)
+![例子1](../images/inception1.jpeg)
 
 
 有多少个页面，就花多少个，记得标记出每个页面的跳转关系：
-![例子2](/images/inception2.jpeg)
+![例子2](../images/inception2.jpeg)
 
 
 
 经过美工的润色之后，草图就变成这样：
-![例子3](/images/inception3.jpeg)
+![例子3](../images/inception3.jpeg)
 
 
 所以，你那边只需要按照这个模式：
@@ -48,7 +48,7 @@
 
 
 
-![LOGO](/images/inception_prepare.jpg)
+![LOGO](../images/inception_prepare.jpg)
 1. 准备一张大白纸.   胶水. 黄色便签纸( 需要长条形 )
 
 大白纸: 所有的线和字都写在上面. 白纸能重视的记录所有信息. 不用画板的原因是画板一擦,内容就全没了.
@@ -73,14 +73,14 @@
 下面的例子,具备了: 标题, 输入框, 下拉选择框.
 
 
-![select](/images/inception_select.jpg)
+![select](../images/inception_select.jpg)
 
 3.4 消息,警告等,应该有阴影:
 
-![field](/images/inception_fields.jpg)
+![field](../images/inception_fields.jpg)
 
 还有几个例子:
-![field](/images/实际的几个例子页面.jpg)
+![field](../images/实际的几个例子页面.jpg)
 
 
 所有可以点击的按钮,都要用红色方框划上,然后标记好它的下一个页面.
@@ -92,7 +92,7 @@
 附件是一些例子.
 
 
-![field](/images/一个完整的系统有复杂的跳转逻辑.jpg)
+![field](../images/一个完整的系统有复杂的跳转逻辑.jpg)
 
 
 
@@ -103,14 +103,14 @@
 
 下面是另一个系统的跳转逻辑:(类似于滴滴顺风车)
 
-![field](/images/另一个系统的核心页面跳转逻辑.jpg)
+![field](../images/另一个系统的核心页面跳转逻辑.jpg)
 
 
 下面是一个更加完整的例子:
 
 左侧是无线端app  , 中间是 PC端管理员后台,  右侧是 服务器的数据库设计.
 
-![field](/images/ipad端, PC端 和数据库端设计.jpg)
+![field](../images/ipad端, PC端 和数据库端设计.jpg)
 
 ## 几点注意
 
@@ -131,9 +131,9 @@
 项目2: xxx
 
 - 黄纸片要贴的横平竖直, 例如, 大致都分布在同一横线或者竖线上.
-- 只能省略第三方的页面,例如:QQ登陆,淘宝支付, 手机拍照等. 否则的话,再简单的页面也不要省略.
+- 只能省略第三方的页面,例如:QQ登录,淘宝支付, 手机拍照等. 否则的话,再简单的页面也不要省略.
 例如: 忘记密码等. 页面越齐全,越能准确的估算工作量.
-- 标注好页面的入口(例如从登陆页面开始)
+- 标注好页面的入口(例如从登录页面开始)
 
 ## 一般分成两端
 
