@@ -4,9 +4,9 @@
 
 最开始踩这个坑，是在我当上技术经理的时候， 不断的为自己的团队招人。 当时的面试过程就是出题目， 聊项目经验， 看情商等等多方面考察。
 
-后来发了offer. 
+后来发了offer.
 
-等这个小弟上班后， 我发现： 他的指法是二指禅。 
+等这个小弟上班后， 我发现： 他的指法是二指禅。
 
 
 我发现很多小弟，他的执法是，不标准的，可能，在大学里面，并没有打太多的字，导致了工作当中，就会遇到问题，
@@ -89,7 +89,7 @@ F1，F2，...F12， 也都最好是可以一键按到的。
 
 用好快捷键可以让你的开发速度再次提高一个台阶。
 
-这里：http://siwei.me/blog/posts/shortcuts-should-be-short和 http://siwei.me/blog/posts/shortcuts-should-be-short 是之前的两篇文章。
+这里：http://siwei.me/blog/posts/shortcuts-should-be-short 和 (FIXME: ) 是之前的两篇文章。
 
 快捷键的原则，是越短越好。越通用越好。比如 ctrl + page_down 就是很短（2个组合键），很通用（在terminal, browser中都用来切换tab ) .
 

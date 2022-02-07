@@ -14,7 +14,7 @@
 ## vim /etc/nginx 下面的东东
 ## tail
 ## head
-## grep *** 重中之重啊。 一定要知道各种形式的参数， 以及各种变种。 比如：   $ grep -F 'fixed string' -R --include=*rb
+## grep *** 重中之重啊。 一定要知道各种形式的参数， 以及各种变种。 比如：`grep -F 'fixed string' -R --include=*rb`
 ## zgrep 搜索 压缩文件的内容
 ## find .
 ## rsync  传送文件
@@ -22,14 +22,14 @@
 ## ssh
 ## wget
 ## curl HTTP 请求
-## vim ~/.bashrc
+## `vim ~/.bashrc`
 ## chmod
 ## chown
 ## passwd
 ## netstat
 ## ifconfig 查看网卡信息
 ## netrafic 查看流量的（似乎）
-## top 命令 （进入之后的各种参数， 按c,1 )
+## top 命令(进入之后的各种参数， 按c,1 )
 ## 各种服务器的命令： nginx -s reload|stop,  rails server...
 ## tar zxvf
 ## unzip
